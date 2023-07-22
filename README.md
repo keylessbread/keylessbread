@@ -5,7 +5,7 @@
 - 📫 How to reach me cassie.blazejeski@gmail.com
 
 
-This is a collection matlab code including class objects for mathamatical concepts for future built ins in data rangling.
+This is a collection of code showcasing standard mathamatical concepts for data wrangling.
 ---
 .m files
 These files are used to determine relative distances between coordinate systems in order to separate data using hyperplanes for visualization.
